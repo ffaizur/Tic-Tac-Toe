@@ -4,8 +4,10 @@
 }
 
 body{
-    background-color: #373665;
     text-align: center;
+    background: rgb(36,0,27);
+    background: linear-gradient(45deg, rgba(36,0,27,1) 0%, rgba(65,9,121,1) 30%, rgba(0,255,244,1) 100%);
+    background: url("little-flower-1602388_1920.jpg");
 }
 
 .para{
